@@ -7,10 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-Here's a refined and more creative version for your GitHub README file, with improved English:
-
 ---
-
 # Social Media Application: Engage, Share, Connect
 
 Welcome to our innovative Social Media Application, meticulously crafted using Flutter for the frontend and Laravel for the backend. This application is designed to redefine your social media experience, offering a plethora of features that cater to your desire for sharing, engaging, and connecting in the digital world.
@@ -47,6 +44,12 @@ Our application stands out with its array of dynamic features designed to enhanc
 13. **Story Editing:** Edit and delete your stories as needed.
 14. **Administrative Dashboard:** Oversee the application and manage content effectively.
 
+## Application Demo
+
+Experience our Social Media Application in action. Watch our demo video to see the features and functionalities brought to life:
+
+[![Social Media Application Demo](https://img.youtube.com/vi/7b6R_7kPxDg/0.jpg)](https://youtu.be/7b6R_7kPxDg?si=aABqSIAgXAMvV2qI)
+
 ## Dive Into Our Social Media Experience
 
 Our application is not just a platform; it's a community. With a focus on user-friendly design and comprehensive features, we're committed to providing a rich social media experience. Whether you're sharing life's moments, connecting with friends, or engaging in community discussions, our application brings your social interactions to life.
@@ -54,5 +57,3 @@ Our application is not just a platform; it's a community. With a focus on user-f
 Explore, share, and connect—welcome to a new era of social media.
 
 ---
-
-This version aims to provide a clear, engaging, and professional presentation of your project. It succinctly outlines the technologies used, setup instructions, and the vast array of features your application offers, appealing to potential users and contributors alike.
